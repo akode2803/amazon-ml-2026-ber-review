@@ -1,0 +1,11 @@
+# never commit data, models or large artefacts
+*.tsv
+*.npz
+*.npy
+*.parquet
+*.pkl
+*.txt.gz
+work/
+output*/
+__pycache__/
+*.pyc
